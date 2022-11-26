@@ -2,8 +2,7 @@
 This project is the creation of a workload management system for the ambulance team of a major hospital. Our team provided an informative overview of staff workload by creating an interactive and user-friendly application that would allow quick viewing of important information, such as their job assignments, task allocations, and also their availability. 
 
 ## Video 
-Link:
-
+The video can be found in [the ICT2201_P5-9_AY22-23_T1/ICT2201_P5-9_Video.mp4 file of this repository.](ICT2201_P5-9_AY22-23_T1/ICT2201_P5-9_Video.mp4)
 ## Figma 
 Link: https://www.figma.com/file/y79Rb0WPs1TlTX36M3N1Rq/Ambulance?node-id=0%3A1&t=HgubOLh0R1KFM6tf-1. 
 1. To view the protoype, click on the above link

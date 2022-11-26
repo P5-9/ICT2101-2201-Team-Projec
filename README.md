@@ -3,6 +3,8 @@ This project is the creation of a workload management system for the ambulance t
 
 ## Video 
 The video can be found in [the ICT2201_P5-9_AY22-23_T1/ICT2201_P5-9_Video.mp4 file of this repository.](ICT2201_M3_P5_9_Video.mp4)
+1.To access, please download the mp4 file and play the video with any video players.
+
 ## Figma 
 Link: https://www.figma.com/file/y79Rb0WPs1TlTX36M3N1Rq/Ambulance?node-id=0%3A1&t=HgubOLh0R1KFM6tf-1. 
 1. To view the protoype, click on the above link
